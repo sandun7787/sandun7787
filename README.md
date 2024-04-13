@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm sandun7787</h1>
 <h3 align="center">I am a Cardiff Metropolitan University undergraduate majoring in software engineering</h3>
-<img allign="right" alt="coding" width="auto" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img allign="right" alt="coding" width="auto" src="https://tenor.com/mUTRVi8vK6i.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun7787&label=Profile%20views&color=0e75b6&style=flat" alt="sandun7787" /> </p>
 
