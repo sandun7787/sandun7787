@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm sandun7787</h1>
-<h3 align="center">I am a Cardiff Metropolitan University undergraduate majoring in software engineering</h3>
+<h3 align="center"></h3>
 <img allign="right" alt="coding" width="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fjarak-dan-kita--365002744810242398%2F&psig=AOvVaw3SNfz_QBqBmr1Q35LJaZKx&ust=1713107709602000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD3mNy9v4UDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun7787&label=Profile%20views&color=0e75b6&style=flat" alt="sandun7787" /> </p>
